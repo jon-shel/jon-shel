@@ -1,6 +1,6 @@
 # About me in brief
 ---
-<img src="https://github.com/jon-shel/jon-shel/blob/7ba9ad92247335e86aae9b06be19aaef885e01b0/Jon%20Shelby.png">
+<img src="https://github.com/jon-shel/jon-shel/blob/7ba9ad92247335e86aae9b06be19aaef885e01b0/Jon%20Shelby.png" width="200">
 
 ---
 
