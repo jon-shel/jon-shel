@@ -6,7 +6,7 @@
 
 ## My name is Jon Shelby
 Currently studying at an `university` and majoring `Cyber Security`.
-** HOBBIES ** :
+**HOBBIES** :
 * 💻 Make simple projects around `c` `html` `css` `python` `SQL`.
 * 🔒 Recently interested in ***SQL INJECTION***.
 * 🌹 Loves to explore around Cyber Security knowledge.
