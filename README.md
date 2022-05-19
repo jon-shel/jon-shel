@@ -16,7 +16,6 @@ Currently studying at an `university` and majoring `Cyber Security`.
 </p>
 
 **HOBBIES** :
-* 💻 Make simple projects around `c` `html` `css` `python` `SQL`.
 * 🔒 Recently interested in ***SQL INJECTION***.
 * 🌹 Loves to explore around Cyber Security knowledge.
 
