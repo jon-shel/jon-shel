@@ -4,9 +4,6 @@
 
 ---
 
-## My name is Jon Shelby
-Currently studying at an `university` and majoring `Cyber Security`.
-
 ### Skills
 
 <p align="left">
